@@ -4,6 +4,8 @@
 - :v: Computer Science Engineer
 
 ## :bulb: Technologies
+- Power BI [<img src="https://user-images.githubusercontent.com/22683671/150374861-fee246ee-5c17-4a7e-8ba0-ef0cb2b8a07a.png" height="40em" align="center" alt="Power BI" title="Power BI"/>](https://powerbi.microsoft.com/en-us/)
+- SQL Server [<img src="https://user-images.githubusercontent.com/22683671/150375275-59ee6da2-0306-4b7e-a0de-ae3ef1201586.png" height="40em" align="center" alt="SQL Server" title="SQL Server"/>](https://powerbi.microsoft.com/en-us/)
 
 ## :open_book: Blogs
 - [Smart Narratives](https://www.clearpeaks.com/power-bi-smart-narratives/)
