@@ -1,6 +1,6 @@
 # Hellow there!! :wave:
 - :technologist: I'm Cristian Rodríguez, currently working in [ClearPeaks](https://www.clearpeaks.com/) as a Business Analyst.
-- :smiley: I love to search new ways to plot data and find data insights
+- :smiley: I love to search new ways to plot data and find insights
 - :v: Computer Science Engineer
 
 ## :bulb: Technologies
