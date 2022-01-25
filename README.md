@@ -1,13 +1,13 @@
 # Hellow there!! :wave:
 - :technologist: I'm Cristian Rodríguez, currently working in [ClearPeaks](https://www.clearpeaks.com/) as a Business Analyst.
-- :smiley: I love to search new ways to plot data and find insights
+- :smiley: I love to search new ways to display data and find insights
 - :v: Computer Science Engineer
 
 ## ⚙️: Technologies
 
 ![](https://img.shields.io/badge/PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=3D3D3D)
 ![](https://img.shields.io/badge/SAP_Cloud-informational?style=flat&logo=sap&logoColor=white&color=3D3D3D)
-![](https://img.shields.io/badge/Microsoft_SQL_server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=3D3D3D)
+![](https://img.shields.io/badge/Microsoft_SQL_Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=3D3D3D)
 
 ![](https://img.shields.io/badge/Dataiku-informational?style=flat&logo=dataiku&logoColor=white&color=3D3D3D)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&color=3D3D3D)
