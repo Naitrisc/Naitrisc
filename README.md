@@ -1,4 +1,4 @@
-# Hellow there!! :wave:
+# Hello there!! :wave:
 - :technologist: I'm Cristian Rodríguez, currently working in [ClearPeaks](https://www.clearpeaks.com/) as a Business Analyst.
 - :smiley: I love to search new ways to display data and find insights
 - :v: Computer Science Engineer
